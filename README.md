@@ -39,7 +39,7 @@ python localgrasslite.py
 ```
 # How to get grass userid 
 - Visit https://app.getgrass.io/dashboard
-- pOpen your browser's developer tools (usually by pressing F12 or right-clicking and selecting "Inspect").
+- Open your browser's developer tools (usually by pressing F12 or right-clicking and selecting "Inspect").
 - Go to the "Console" tab.
 - Paste the following command and press Enter:
 ``` 
