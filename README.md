@@ -14,7 +14,7 @@ This is  connects to a specified WebSocket server using both HTTP and SOCKS prox
 git clone https://github.com/GangsterGpc/Grass-AirDrop-Bot.git
 ```
 ```
-cd grass
+cd Grass-Airdrop-Bot
 ```
 ```
 pip install requests
