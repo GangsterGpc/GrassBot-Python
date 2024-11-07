@@ -11,7 +11,7 @@ This  bot for farming Grass Airdrop Season 2.
 git clone https://github.com/GangsterGpc/Grass-AirDrop-Bot.git
 ```
 ```
-cd Grass-Airdrop-Bot
+cd Grass-AirDrop-Bot
 ```
 ```
 pip install requests
