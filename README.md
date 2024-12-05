@@ -51,7 +51,7 @@ http://username:password@hostname:port
 socks5://username:password@hostname:port
 ```
 
-# Donations To Bot
+# Support To Bot
 If you would like to support the development of this project, you can make a donation using the following addresses:
 - SOL : EzygNQeDii8wRjgBoSfQGEXCMsCsNByN3v8UWNCmY2Mz
 - BTC : bc1ph5r3gvwkyjchqka236j720qnhxmhzn565qpm226kdjrj47p89ghslq3u5p
